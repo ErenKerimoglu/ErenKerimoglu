@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Eren, I am a young Computer Science student from Bilkent University 
+### My name is Eren Kerimoğlu , I am a young Computer Science student from Bilkent University / Türkiye
 <!--
 **ErenKerimoglu/ErenKerimoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
